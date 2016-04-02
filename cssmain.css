@@ -1,0 +1,81 @@
+body{
+	font-family: Titillium Web;
+	text-align: center;
+	font-size: 17px;
+}
+
+.row{
+	margin: 0;
+	text-align: center;
+}
+
+.jumbo{
+	
+	font-size: 80px;
+	font-weight: 900;
+	color: #222222;
+}
+
+.sub-head{
+	font-size: 22px;
+}
+
+.faces{
+	padding: 0px;
+	margin: 0px;
+	cursor: pointer;
+}
+
+.left{
+	text-align: left;
+}
+
+.proposal_title{
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.won{
+	background-color: #2ecc71;
+	padding: 3px;
+	color: #eee;
+	border-radius: 10px;
+}
+.lost{
+	background-color: #e74c3c;
+	padding: 3px;
+	color: #eee;
+	border-radius: 10px;
+}
+.fa{
+	margin-left: 5px;
+}
+
+.name{
+	font-size : 25px;
+	font-weight: 600;
+}
+
+.soc-but{
+	background-color: #c0392b;
+	border-radius: 5px;
+	padding: 10px;
+	color: #eee;
+	font-weight: 700;
+}
+
+.tech-but{
+	background-color: #27ae60;
+	border-radius: 5px;
+	padding: 10px;
+	color: #eee;
+	font-weight: 700;
+}
+
+.spo-but{
+	background-color: #2980b9;
+	border-radius: 5px;
+	padding: 10px;
+	color: #eee;
+	font-weight: 700;
+}
