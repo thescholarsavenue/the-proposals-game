@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 			dist: {
 				files: [{
 					expand: true,
-					src: ['index.html','jsmain.js','cssmain.css', 'candis', 'tsa.png'],
+					src: ['index.html','jsmain.js','cssmain.css', 'tsa.png', 'candis/soc-cult/2010-1.jpg','candis/soc-cult/2010-2.jpg','candis/soc-cult/2010-3.jpg','candis/soc-cult/2010-4.jpg','candis/soc-cult/2011-1.jpg','candis/soc-cult/2011-2.jpg','candis/soc-cult/2011-3.jpg','candis/soc-cult/2011-4.jpg','candis/soc-cult/2012-1.jpg','candis/soc-cult/2012-2.jpg','candis/soc-cult/2012-3.jpg','candis/soc-cult/2012-4.jpg','candis/soc-cult/2013-1.jpg','candis/soc-cult/2013-2.jpg','candis/soc-cult/2013-3.jpg','candis/soc-cult/2013-4.jpg','candis/soc-cult/2014-1.jpg','candis/soc-cult/2014-2.jpg','candis/soc-cult/2014-3.jpg','candis/soc-cult/2014-4.jpg','candis/soc-cult/2015-1.jpg','candis/soc-cult/2015-2.jpg','candis/soc-cult/2015-3.jpg'],
 					dest: 'dist/'
 				}]
 			}
