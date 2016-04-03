@@ -32,6 +32,23 @@
 
 
 	<body>
+		<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '833421540120977',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 		<div id="home-tab" >
 			<div style="background-color: #f1c40f;z-index: -999;top: 0;height: 300px;position: absolute;left: 0; right: 0"></div>
 			<p class="jumbo" style="margin-top:80px;margin-bottom:0;">The Proposals Game</p>
