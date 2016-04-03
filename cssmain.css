@@ -20,7 +20,17 @@ body{
 	font-size: 22px;
 }
 
-.faces{
+.faces-1{
+	padding: 0px;
+	margin: 0px;
+	cursor: pointer;
+}
+.faces-2{
+	padding: 0px;
+	margin: 0px;
+	cursor: pointer;
+}
+.faces-3{
 	padding: 0px;
 	margin: 0px;
 	cursor: pointer;
@@ -62,6 +72,7 @@ body{
 	padding: 10px;
 	color: #eee;
 	font-weight: 700;
+	cursor: pointer;
 }
 
 .tech-but{
@@ -70,12 +81,14 @@ body{
 	padding: 10px;
 	color: #eee;
 	font-weight: 700;
+	cursor: pointer;
 }
 
-.spo-but{
+.sports-but{
 	background-color: #2980b9;
 	border-radius: 5px;
 	padding: 10px;
 	color: #eee;
 	font-weight: 700;
+	cursor: pointer;
 }

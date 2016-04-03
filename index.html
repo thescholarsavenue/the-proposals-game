@@ -32,6 +32,23 @@
 
 
 	<body>
+		<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '833421540120977',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 		<div id="home-tab" >
 			<div style="background-color: #f1c40f;z-index: -999;top: 0;height: 300px;position: absolute;left: 0; right: 0"></div>
 			<p class="jumbo" style="margin-top:80px;margin-bottom:0;">The Proposals Game</p>
@@ -45,13 +62,25 @@
 			</p>
 			<p><i class="fa fa-wrench"></i> by Keerthana and Vivek</p>
 			<div class="col-md-6 col-md-offset-3" style="margin-top: 20px;margin-bottom: 25px;">
-				<p><span class="col-md-4 soc-but">Social and Cultural</span><span class="col-md-4 tech-but">Technology</span><span class="col-md-4 spo-but">Sports and Games</span></p>
+				<p><span class="col-md-4 soc-but">Social and Cultural</span><span class="col-md-4 tech-but">Technology</span><span class="col-md-4 sports-but">Sports and Games</span></p>
 			</div>
 			
 		</div>
 
 		<div class="col-md-12">
-			<p style="font-weight: 800; font-size: 45px">Social And Cultural</p>
+		<div class="col-md-8 col-md-offset-2">
+		<p style="font-size: 25px; font-weight: 600">What is this?</p>
+
+			<p>
+				We looked at all the proposals candidates put forth over the years and categorized them into various buckets. Under Social & cultural the proposals are broadly under the themes - Spring Fest, GC/Competitions, Soc-cult culture on campus and Miscellaneous (portals, information dissemination systems, etc.). The Technology  and Sports & Games brackets differ from the Social & cultural bracket with Kshitij and Inter-IIT respectively replacing Spring Fest. 
+			</p>
+			<p style="font-weight: 600;">For SOPs and proposals of candidates for the 2016 elections, check out <a href="http://thescholarsavenue.github.io/electionhub2016" target="_blank">http://thescholarsavenue.github.io/electionhub2016</a></p>
+			<p style="font-weight: 600; color: #c0392b">Disclaimer : This is a work in progress. If you find any discrepancy in the data, do comment below. We'll change it as soon as possible.</p>
+			</div>
+		</div>
+
+		<div class="col-md-12">
+			<p style="font-weight: 800; font-size: 45px;border-top: 1px solid #ccc">Social And Cultural</p>
 		</div>
 		<div class="row" id="soc-cult" style="margin-top: 30px">
 			<div class="col-md-6 col-md-offset-1">
@@ -112,15 +141,173 @@
 				</table>				
 			</div>
 			<div class="col-md-4" style="border: 1px solid #ccc;border-radius: 5px; background-color: #eee">
-				<p class="prop"style="font-size: 35px; font-weight: 700; margin:0">Hola KGPian!</p>
-				<p class="proposal_title"></p>
-				<p class="proposal_descrip left">Are you remembering the hustle and bustle of previous elections? Or are you diving into it for the first time? Worry not! TSA brings to you a repository of all previous proposals along with their statuses for you to figure out what was promised, what was done and what was a lazy rehash of a bygone era.</p>
-				<p class="name col-md-12" style="line-height: 5"></i></p>
-				<p class="hall col-md-6 left" style="font-size: 20px"></p>
-				<p class="year col-md-6 left"  style="font-size: 20px"></i></p>
-				<p class="category col-md-12 left"  style="font-size: 18px">{Click on any bubble in the table to find out more!}</p>
-				<p class="col-md-12 candidate_status left"></p>
-				<p class="col-md-12 status left"></p>
+				<p class="prop-1"style="font-size: 35px; font-weight: 700; margin:0">Hola KGPian!</p>
+				<p class="proposal_title-1"></p>
+				<p class="proposal_descrip-1 left">Are you remembering the hustle and bustle of previous elections? Or are you diving into it for the first time? Worry not! TSA brings to you a repository of all previous proposals along with their statuses for you to figure out what was promised, what was done and what was a lazy rehash of a bygone era.</p>
+				<p class="name-1 col-md-12" style="line-height: 5"></i></p>
+				<p class="hall-1 col-md-6 left" style="font-size: 20px"></p>
+				<p class="year-1 col-md-6 left"  style="font-size: 20px"></i></p>
+				<p class="category-1 col-md-12 left"  style="font-size: 18px">{Click on any bubble in the table to find out more!}</p>
+				<p class="col-md-12 candidate_status-1 left"></p>
+				<p class="col-md-12 status-1 left"></p>
+				<p>
+					
+				</p>
+
+			</div>
+			
+		</div>
+
+		<div class="col-md-12">
+			<p style="font-weight: 800; font-size: 45px; border-top: 1px solid #ccc">Technology</p>
+		</div>
+		<div class="row" id="tech" style="margin-top: 30px">
+			<div class="col-md-6 col-md-offset-1">
+				<table class="table table-bordered">
+					<thead>
+						<tr style="background-color: #333;color: #eee">
+							<td class="col-md-1">Year</td>
+							<td class="col-md-2">Kshitij</td>
+							<td class="col-md-2">GCs / Competitions</td>
+							<td class="col-md-2">Tech Culture on Campus</td>
+							<td class="col-md-2">Miscellaneous</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>2015</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2014</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2013</td>
+							<td class="col-md-2"></td>
+							<td class="col-md-2"></td>
+							<td class="col-md-2"></td>
+							<td class="col-md-2"></td>
+						</tr>
+						<tr>
+							<td>2012</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2011</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2010</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>				
+			</div>
+			<div class="col-md-4" style="border: 1px solid #ccc;border-radius: 5px; background-color: #eee">
+				<p class="prop-2"style="font-size: 35px; font-weight: 700; margin:0">Hola KGPian!</p>
+				<p class="proposal_title-2"></p>
+				<p class="proposal_descrip-2 left">Are you remembering the hustle and bustle of previous elections? Or are you diving into it for the first time? Worry not! TSA brings to you a repository of all previous proposals along with their statuses for you to figure out what was promised, what was done and what was a lazy rehash of a bygone era.</p>
+				<p class="name-2 col-md-12" style="line-height: 5"></i></p>
+				<p class="hall-2 col-md-6 left" style="font-size: 20px"></p>
+				<p class="year-2 col-md-6 left"  style="font-size: 20px"></i></p>
+				<p class="category-2 col-md-12 left"  style="font-size: 18px">{Click on any bubble in the table to find out more!}</p>
+				<p class="col-md-12 candidate_status-2 left"></p>
+				<p class="col-md-12 status-2 left"></p>
+				<p>
+					
+				</p>
+
+			</div>
+			
+		</div>
+
+		<div class="col-md-12">
+			<p style="font-weight: 800; font-size: 45px; border-top: 1px solid #ccc">Sports and Games</p>
+		</div>
+		<div class="row" id="sports-games" style="margin-top: 30px">
+			<div class="col-md-6 col-md-offset-1">
+				<table class="table table-bordered">
+					<thead>
+						<tr style="background-color: #333;color: #eee">
+							<td class="col-md-1">Year</td>
+							<td class="col-md-2">Inter-IIT</td>
+							<td class="col-md-2">GCs / Competitions</td>
+							<td class="col-md-2">Sports Culture on Campus</td>
+							<td class="col-md-2">Miscellaneous</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>2015</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2014</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2013</td>
+							<td class="col-md-2"></td>
+							<td class="col-md-2"></td>
+							<td class="col-md-2"></td>
+							<td class="col-md-2"></td>
+						</tr>
+						<tr>
+							<td>2012</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2011</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>2010</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>				
+			</div>
+			<div class="col-md-4" style="border: 1px solid #ccc;border-radius: 5px; background-color: #eee">
+				<p class="prop-3"style="font-size: 35px; font-weight: 700; margin:0">Hola KGPian!</p>
+				<p class="proposal_title-3"></p>
+				<p class="proposal_descrip-3 left">Are you remembering the hustle and bustle of previous elections? Or are you diving into it for the first time? Worry not! TSA brings to you a repository of all previous proposals along with their statuses for you to figure out what was promised, what was done and what was a lazy rehash of a bygone era.</p>
+				<p class="name-3 col-md-12" style="line-height: 5"></i></p>
+				<p class="hall-3 col-md-6 left" style="font-size: 20px"></p>
+				<p class="year-3 col-md-6 left"  style="font-size: 20px"></i></p>
+				<p class="category-3 col-md-12 left"  style="font-size: 18px">{Click on any bubble in the table to find out more!}</p>
+				<p class="col-md-12 candidate_status-3 left"></p>
+				<p class="col-md-12 status-3 left"></p>
 				<p>
 					
 				</p>

@@ -2,7 +2,7 @@ soccult_proposals={
 	'2010' :[{
 		'proposal_title': "Include cultural activities as a part of Extra Academic Activities for 1st and 2nd year students",
 		'proposal_descrip': "Introduce 3 cultural Extra Academic Activities namely drawing & painting, dramatics and music",
-		'name' : "Himanshu  Singhal",
+		'name' : "Himanshu Singhal",
 		'hall' : "NH",
 		'category' : 3,
 		'status' : 1,
@@ -12,7 +12,7 @@ soccult_proposals={
 	{
 		'proposal_title': "Bring certification and judges for the Social & Cultural General Championship events from the institutes like British Council & Calcutta School Of Music",
 		'proposal_descrip': "",
-		'name' : "Himanshu  Singhal",
+		'name' : "Himanshu Singhal",
 		'hall' : "NH",
 		'category' : 2,
 		'status' : 0,
@@ -22,7 +22,7 @@ soccult_proposals={
 	{
 		'proposal_title': "Social initiative through Spring Fest by collaborating with NGOs having a student chapter in IIT Kharagpur",
 		'proposal_descrip': "",
-		'name' : "Himanshu  Singhal",
+		'name' : "Himanshu Singhal",
 		'hall' : "NH",
 		'category' : 1,
 		'status' : 0,
@@ -172,7 +172,7 @@ soccult_proposals={
 	},
 	{
 		'proposal_title': "Celebration of Diamond Jubilee of IIT Kharagpur",
-		'proposal_descrip': "An Exhibition on KGP Life and a Cultural Programme on the day after Foundation Day  and screening of a Documentary on 60 years of KGP on Alumni Meet.",
+		'proposal_descrip': "An Exhibition on KGP Life and a Cultural Programme on the day after Foundation Day and screening of a Documentary on 60 years of KGP on Alumni Meet.",
 		'name' : "Shashank Singhal",
 		'hall' : "RP",
 		'category' : 1,
@@ -252,7 +252,7 @@ soccult_proposals={
 	'2012' : [
 		{
 		'proposal_title': "Set of new events in SF to showcase Indian Culture",
-		'proposal_descrip': "Introduce the following events - Dharohar (Folk Dance Choreography Competition), Darshan (Exhibitions), Gyaan (India Quiz), Chal chitra (Documentary Making Competition ,adopted from Lights Camera and  SF), Lekhika (Creative Writing Competition, adopted from Penathlon), Sanskruti",
+		'proposal_descrip': "Introduce the following events - Dharohar (Folk Dance Choreography Competition), Darshan (Exhibitions), Gyaan (India Quiz), Chal chitra (Documentary Making Competition ,adopted from Lights Camera and SF), Lekhika (Creative Writing Competition, adopted from Penathlon), Sanskruti",
 		'name' : "Somraj Dutta",
 		'hall' : "NH",
 		'category' : 1,
@@ -710,7 +710,1220 @@ soccult_proposals={
 	},
 	]
 }
+
+sports_proposals={
+	'2015' :[{
+		'proposal_title': "Organization of a biannual 'Athletic Fitness Talent Hunt' program exclusively for freshers",
+		'proposal_descrip': "",
+		'name' : "Sanket Mandal",
+		'hall' : "HJB",
+		'category' : 3,
+		'status' : 1,
+		'candidate_status' : 1,
+		'candidateID' : "2015-1",
+	},
+	{
+		'proposal_title': "Organization of a women's week consisting of various sporting activities solely for women",
+		'proposal_descrip': "",
+		'name' : "Sanket Mandal",
+		'hall' : "HJB",
+		'category' : 3,
+		'status' : 1,
+		'candidate_status' : 1,
+		'candidateID' : "2015-1",
+	},
+	{
+		'proposal_title': "A Sports' Seminar for every sport in the beginning of each Academic session",
+		'proposal_descrip': "",
+		'name' : "Prateek Jain",
+		'hall' : "RP",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-2",
+	},
+	{
+		'proposal_title': "Sports' Mentorship Programme",
+		'proposal_descrip': "Students mentors will hold regular teaching sessions for various sports to coach the students interested in learning that Sport. Students interested in learning a particular sport would be trained by Inter IIT players and probable players.",
+		'name' : "Prateek Jain",
+		'hall' : "RP",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-2",
+	},
+	{
+		'proposal_title': "Sports' Week for Women",
+		'proposal_descrip': "Separate Sports' weeks for Women, Research Scholars and Post Graduate Students.",
+		'name' : "Prateek Jain",
+		'hall' : "RP",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-2",
+	},
+
+	{
+		'proposal_title': "Workshops for Freshers",
+		'proposal_descrip': "An exclusive Workshop for all the sports for the Freshers,Under Graduates, Post Graduates and Research Scholars to increase their participation in Inter IIT Sports Meet.",
+		'name' : "Gaurav Shenoy",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Postgraduates and Research Scholars Sports Meet",
+		'proposal_descrip': "",
+		'name' : "Gaurav Shenoy",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Online Record Portal for all Sports related data of IITKGP",
+		'proposal_descrip': "",
+		'name' : "Gaurav Shenoy",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Video Archives for Analysis",
+		'proposal_descrip': "Propose to take the videos of the Practice Sessions of Inter-IIT for every sports so as to make the detailed analysis of performance of each player and rectify them by the discussions among PTI, Captain, Secretary and the players of the sport in regular intervals.",
+		'name' : "Gaurav Shenoy",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-3",
+	}
+	],
+	'2014' : [
+	{
+		'proposal_title': "An exclusive Open IIT tournament for all the sports for the Postgraduate students",
+		'proposal_descrip': "",
+		'name' : "Ankit Gahlawat",
+		'hall' : "MS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "Organize a Sports Summer Camp, which will help the students of IIT Kharagpur to get professional coaching during the summer break",
+		'proposal_descrip': "",
+		'name' : "Ankit Gahlawat",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "Assign points in the General Championship Sports & Games to the existing March-Past event",
+		'proposal_descrip': "",
+		'name' : "Ankit Gahlawat",
+		'hall' : "MS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "Provide a solution to the problem of Inter IIT practice being affected by rain by using polythene covers in 3 outdoor sports namely basketball, volleyball, and tennis",
+		'proposal_descrip': "",
+		'name' : "Ankit Gahlawat",
+		'hall' : "MS",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "The development of an online portal for registration and slot allocation in Gym, Tennis, Pool and Swimming.",
+		'proposal_descrip': "",
+		'name' : "Ashwin Kumar",
+		'hall' : "HJB",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-2",
+	},
+	{
+		'proposal_title': "Allocation of a separate gym slot for the Inter-IIT players at the present gymnasium in the autumn semester.",
+		'proposal_descrip': "",
+		'name' : "Ashwin Kumar",
+		'hall' : "HJB",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-2",
+	},
+	{
+		'proposal_title': "To start a morning session of march past and conditioning during the camp for inter-IIT practice.",
+		'proposal_descrip': "",
+		'name' : "Ashwin Kumar",
+		'hall' : "HJB",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-2",
+	},
+	{
+		'proposal_title': "To structure the conditioning for the inter-iit players in the form of Circuit Training which will be common for every sport and will provide general fitness",
+		'proposal_descrip': "",
+		'name' : "Rajeev Lochan",
+		'hall' : "LLR",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-3",
+	},
+	{
+		'proposal_title': "Introduce 'Sports Cell'",
+		'proposal_descrip': "The cell will work on day to day activities of sports and will be responsible to fix guest lectures, workshops for different sports, and will help in associating with different sporting organisations for tournaments.",
+		'name' : "Rajeev Lochan",
+		'hall' : "LLR",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-3",
+	},
+	{
+		'proposal_title': "Conduct a tournament for Kabaddi, Kho-Kho, Cycling, Snooker, Karate",
+		'proposal_descrip': "",
+		'name' : "Rajeev Lochan",
+		'hall' : "LLR",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-3",
+	},
+	{
+		'proposal_title': "Reconstruct the sports section of the gymkhana website by adding interactive and informative features",
+		'proposal_descrip': "",
+		'name' : "Sandip Das",
+		'hall' : "VSRC",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Set up a permanent drinking water supply beside the basketball ground",
+		'proposal_descrip': "It will be a small room with an aqua guard and a cooler placed inside the room. This room will also serve as a changing room for the players.",
+		'name' : "Sandip Das",
+		'hall' : "VSRC",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Create an online portal",
+		'proposal_descrip': "Part -1 : Creation of an information dissemination system for sports and games, part-2 : Online feedback Portal Regarding Sports and games, part-3 : Online feedback Portal Regarding Sports and games",
+		'name' : "Sumit Singh",
+		'hall' : "RP",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-5",
+	},
+	{
+		'proposal_title': "To increase the functional timings of different courts in Gymkhana",
+		'proposal_descrip': "",
+		'name' : "Sumit Singh",
+		'hall' : "RP",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-5",
+	},
+	{
+		'proposal_title': "Make sure a dietician (Sports Nutritionist) and a permanent orthopaedic doctor are available",
+		'proposal_descrip': "",
+		'name' : "Sumit Singh",
+		'hall' : "RP",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-5",
+	}
+	],
+	'2013' : '',
+	'2012' : [{
+		'proposal_title': "Improve the performance of the teams at the Inter IIT Sports Meet",
+		'proposal_descrip': "This will include building a new section within the existing Gymkhana website, showcasing the profiles of all the Inter IIT players along with their achievements",
+		'name' : "Tejeshwar Singh Gill",
+		'hall' : "PH",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-1",
+	},
+	{
+		'proposal_title': "Introduce a Fresher’s Tournament exclusively for Post Graduate and Research Scholar students",
+		'proposal_descrip': "",
+		'name' : "Tejeshwar Singh Gill",
+		'hall' : "PH",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-1",
+	},
+	{
+		'proposal_title': "Construction of a skating rink in IIT Kharagpur, in order to promote skating",
+		'proposal_descrip': "",
+		'name' : "Tejeshwar Singh Gill",
+		'hall' : "PH",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-1",
+	},
+	{
+		'proposal_title': "Organize the schedule of Inter IIT practice in a systematic matter including practice sessions, physical conditioning and proper training",
+		'proposal_descrip': "",
+		'name' : "Rudresh Chandra Suman",
+		'hall' : "MS",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-2",
+	},
+	{
+		'proposal_title': "Launch a Web portal on the Technology Students Gymkhana website consisting of a database having information of all the Inter-hall matches",
+		'proposal_descrip': "",
+		'name' : "Rudresh Chandra Suman",
+		'hall' : "MS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-2",
+	},
+	{
+		'proposal_title': "Introduce Photo Finish methodology for events of Sports GC namely athletics and aquatics and maintain an official video recording of all the other eventsin Sports GC",
+		'proposal_descrip': "",
+		'name' : "Rudresh Chandra Suman",
+		'hall' : "MS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-2",
+	},
+	{
+		'proposal_title': "A new information system which will provide Online Sports and Games related Information to all the members of IIT Kharagpur",
+		'proposal_descrip': "",
+		'name' : "Indranil Hatai",
+		'hall' : "VSRC",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-3",
+	},
+	{
+		'proposal_title': "Construct a dressing room-cum-washroom as well as permanent dugouts for the players inside the campus",
+		'proposal_descrip': "",
+		'name' : "Indranil Hatai",
+		'hall' : "VSRC",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-3",
+	},
+	{
+		'proposal_title': "A new information system which will provide Online Sports and Games related Information to all the members of IIT Kharagpur",
+		'proposal_descrip': "",
+		'name' : "Indranil Hatai",
+		'hall' : "VSRC",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-3",
+	},
+	{
+		'proposal_title': "Restructure the open iit tournament. We shall conduct this tournament for group games, which will help in selecting the teams for Inter IIT sports meet",
+		'proposal_descrip': "",
+		'name' : "Akash Kumar Singhi",
+		'hall' : "NH",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-4",
+	},
+	{
+		'proposal_title': "Setup a Rehabilitation Gym,which has a full complement of physical therapist to assist our sportsperson maximise their abilities and foster a health re-integration into the sports community",
+		'proposal_descrip': "",
+		'name' : "Akash Kumar Singhi",
+		'hall' : "NH",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-4",
+	},
+	],
+	'2011':[
+		{
+		'proposal_title': "An INTER IIT ACTION PLAN in order to improve the performance of IIT Kharagpur at the Inter IIT level",
+		'proposal_descrip': "",
+		'name' : "Abhishek Negi",
+		'hall' : "-",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-1",
+	},
+	{
+		'proposal_title': "Proposal of a website completely dedicated to Sports and Games of IIT Kharagpur.",
+		'proposal_descrip': "",
+		'name' : "Abhishek Negi",
+		'hall' : "-",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-1",
+	},
+	{
+		'proposal_title': "Introduce regular fitness tests of the inter iit probable players and thereby maintain the profile database of each one of them",
+		'proposal_descrip': "",
+		'name' : "Nitheesh N Ballal",
+		'hall' : "-",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2011-2",
+	},
+	{
+		'proposal_title': "Inter IIT Students’ Committee",
+		'proposal_descrip': "The role of this committee is to keep a regular check on the progress of the performance of differentteams and players with respect to the Inter-IIT. A very detailed discussion will be held during the meetingregarding every issue or requirements of any sports and games. By the end of every meeting there will bereport declared of the current situations which will be presented to the Gymkhana Authorities, so that it will be taken care of specifically.",
+		'name' : "Pratyaksh Pathak",
+		'hall' : "-",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-3",
+	},
+	],
+	'2010' : [
+	{
+		'proposal_title': "Introduction of a completely sports-dedicated booklet.",
+		'proposal_descrip': "",
+		'name' : "Abhishek Raj",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-1",
+	},
+	{
+		'proposal_title': "Introduce a new Skating club",
+		'proposal_descrip': "",
+		'name' : "Abhishek Raj",
+		'hall' : "MS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-1",
+	},
+	{
+		'proposal_title': "Increase incentive awards for best individual performances by introducing new awards through Alumni funding",
+		'proposal_descrip': "",
+		'name' : "Devesh Kumar Dhruw",
+		'hall' : "LLR",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-2",
+	},
+	{
+		'proposal_title': "To improve performance of IIT Kharagpur in the forthcoming Inter-IIT sports meet",
+		'proposal_descrip': "",
+		'name' : "Devesh Kumar Dhruw",
+		'hall' : "LLR",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-2",
+	},
+	{
+		'proposal_title': "Increasing the participation of the teams of IIT Kharagpur in inter-university and inter-college sports tournaments",
+		'proposal_descrip': "",
+		'name' : "Devesh Kumar Dhruw",
+		'hall' : "LLR",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-2",
+	},
+
+	]
+}
+
+tech_proposals={
+	'2010' :[{
+		'proposal_title': "Freshers' Workshop",
+		'proposal_descrip': "Conduction of a workshop and an event for developing a strong technological foundation amongst first years",
+		'name' : "Aayush Agarwal",
+		'hall' : "RK",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-1",
+	},
+	{
+		'proposal_title': "Faster Patent Filing",
+		'proposal_descrip': "Collaboration with TTG and law school faculty to catalyse the patenting process for the products showcased in various technology general championship events",
+		'name' : "Aayush Agarwal",
+		'hall' : "RK",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-1",
+	},
+	{
+		'proposal_title': "Industry Involvement in GC",
+		'proposal_descrip': "Adding a dimension of real life industry problems in various technology general championship events by developing an industry interface in the events.",
+		'name' : "Aayush Agarwal",
+		'hall' : "RK",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-1",
+	},
+	{
+		'proposal_title': "Social Initiative during KTJ",
+		'proposal_descrip': "Take a social initiative under Kshitij which aims at promoting leaders in the social development sector.",
+		'name' : "Aayush Agarwal",
+		'hall' : "RK",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-1",
+	},
+	{
+		'proposal_title': "Tech Club",
+		'proposal_descrip': "To establish a Tech- Activity club to equip student with technical skills by providing them insight into the various aspects of Matlab, Photoshop and web designing.",
+		'name' : "Vivek Sinha",
+		'hall' : "AZ",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-2",
+	},
+	{
+		'proposal_title': "Foreign participation in KTJ",
+		'proposal_descrip': "To expand Kshitij 2011 on global horizon by increasing  foreign participation collaborating with foreign embassies",
+		'name' : "Vivek Sinha",
+		'hall' : "AZ",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-2",
+	},
+	{
+		'proposal_title': "Theme based Hardware Modelling event",
+		'proposal_descrip': "To have a theme based problem statement for the event Hardware Modeling of Technology General Championship instead of the event being Open ended.",
+		'name' : "Vivek Sinha",
+		'hall' : "AZ",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-2",
+	},
+	{
+		'proposal_title': "Youth Summit on climate change and Environmental Sustainibility at Kshitij",
+		'proposal_descrip': "",
+		'name' : "Tarun Rathi",
+		'hall' : "HJB",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-3",
+	},
+	{
+		'proposal_title': "IMechE certified hardware exhibition of Tech GC",
+		'proposal_descrip': "",
+		'name' : "Tarun Rathi",
+		'hall' : "HJB",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-3",
+	},
+	{
+		'proposal_title': "Freshers' Workshop",
+		'proposal_descrip': "Workshop in algorithms, Java, Linux and Windows",
+		'name' : "Tarun Rathi",
+		'hall' : "HJB",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2010-3",
+	},
+	{
+		'proposal_title': "Industry involvement in organisation of Tech GC",
+		'proposal_descrip': "",
+		'name' : "Arava Anmol Manohar",
+		'hall' : "NH",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-4",
+	},
+	{
+		'proposal_title': "Reimbursement Scheme for international participants in KTJ",
+		'proposal_descrip': "",
+		'name' : "Arava Anmol Manohar",
+		'hall' : "NH",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2010-4",
+	}
+	],
+	'2011' : [{
+		'proposal_title': "Inter-IIT Technology Meet",
+		'proposal_descrip': "",
+		'name' : "Shashi Prakash",
+		'hall' : "-",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-1",
+	},
+	{
+		'proposal_title': "PG Advisors in Tech GC",
+		'proposal_descrip': " To encourage more participation from the post graduate students in the organization of Kshitij by having post graduate student advisors for technical events of Kshitij.",
+		'name' : "Shashi Prakash",
+		'hall' : "-",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-1",
+	},
+	{
+		'proposal_title': "Theme based Product Design at Tech GC",
+		'proposal_descrip': "",
+		'name' : "Shashi Prakash",
+		'hall' : "-",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-1",
+	},
+	{
+		'proposal_title': "Establish a Case Study Society in KGP",
+		'proposal_descrip': '',
+		'name' : "Sayantan Sarkar",
+		'hall' : "-",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-2",
+	},
+	{
+		'proposal_title': "Diverse Involvement in KTJ",
+		'proposal_descrip': "First year associates, organisers from each department, PG advisors to KTJ ",
+		'name' : "Sayantan Sarkar",
+		'hall' : "-",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-2",
+	},
+	{
+		'proposal_title': "Information forum for student related events and conferences",
+		'proposal_descrip': '',
+		'name' : "Sayantan Sarkar",
+		'hall' : "-",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2011-2",
+	},
+	{
+		'proposal_title': "Alternative Energy Sources Event in Tech GC",
+		'proposal_descrip': "",
+		'name' : "Abhivadan Sharma",
+		'hall' : "-",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2011-3",
+	},
+	{
+		'proposal_title': "Establish Aeromodelling Society under Gymkhana",
+		'proposal_descrip': "",
+		'name' : "Abhivadan Sharma",
+		'hall' : "-",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2011-3",
+	}
+	],
+	'2012' : [
+		{
+		'proposal_title': "UNESCO Recognition for KTJ",
+		'proposal_descrip': "",
+		'name' : "Sahil Chhabra",
+		'hall' : "AZ",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-1",
+		},
+		{
+		'proposal_title': "Open IIT events for PG students",
+		'proposal_descrip': "",
+		'name' : "Sahil Chhabra",
+		'hall' : "AZ",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-1",
+		},
+		{
+		'proposal_title': "Garnering Angel/venture funding for GC Product Design Products",
+		'proposal_descrip': "",
+		'name' : "Sahil Chhabra",
+		'hall' : "AZ",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-1",
+		},
+		{
+		'proposal_title': "Web portal to show on-going projects under projects",
+		'proposal_descrip': "",
+		'name' : "Raunak Mukherjee",
+		'hall' : "NH",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-2",
+		},
+		{
+		'proposal_title': "Freshers' Workshop",
+		'proposal_descrip': "",
+		'name' : "Raunak Mukherjee",
+		'hall' : "NH",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-2",
+		},
+		{
+		'proposal_title': "Guest lectures and workshops prior to KTJ",
+		'proposal_descrip': "",
+		'name' : "Raunak Mukherjee",
+		'hall' : "NH",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-2",
+		},
+		{
+		'proposal_title': "Workshops throughtout the year",
+		'proposal_descrip': "",
+		'name' : "Abhishek Sharma",
+		'hall' : "RK",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-3",
+		},
+		{
+		'proposal_title': "Patenting of products from GC events",
+		'proposal_descrip': "",
+		'name' : "Abhishek Sharma",
+		'hall' : "RK",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-3",
+		},
+		{
+		'proposal_title': "International Summit on the lines of SAARC as part of KTJ",
+		'proposal_descrip': "",
+		'name' : "Abhishek Sharma",
+		'hall' : "RK",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2012-3",
+		},
+		{
+		'proposal_title': "Organise a meet on maximum utilisation of Indian human resources during KTJ",
+		'proposal_descrip': "",
+		'name' : "Sumit Chandani",
+		'hall' : "MS",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-4",
+		},
+		{
+		'proposal_title': "Certifications for Tech GC Events",
+		'proposal_descrip': "",
+		'name' : "Sumit Chandani",
+		'hall' : "MS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-4",
+		},
+		{
+		'proposal_title': "Changes in the structure of Product Design Event",
+		'proposal_descrip': "Segregate marking based on technical details, marketing and branding",
+		'name' : "Sumit Chandani",
+		'hall' : "MS",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2012-4",
+		},
+	],
+	'2013' : [{
+		'proposal_title': "Establish Technology Coding Society",
+		'proposal_descrip': '',
+		'name' : "Shahir Aziz",
+		'hall' : "HJB",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-1",
+	},
+	{
+		'proposal_title': "Workshops on case study and finance for PG students",
+		'proposal_descrip': '',
+		'name' : "Shahir Aziz",
+		'hall' : "HJB",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-1",
+	},
+	{
+		'proposal_title': "IChemE certification for Chem-Innovation GC event",
+		'proposal_descrip': '',
+		'name' : "Shahir Aziz",
+		'hall' : "HJB",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-1",
+	},
+	{
+		'proposal_title': "Preliminary rounds of Laws of Motion to be conducted in cities across India",
+		'proposal_descrip': '',
+		'name' : "Himanshu Hitesh Das",
+		'hall' : "AZ",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "Soft skills workshop for PG students",
+		'proposal_descrip': '',
+		'name' : "Himanshu Hitesh Das",
+		'hall' : "AZ",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "Launch E-Magazine: Kharagpur Technology Journal",
+		'proposal_descrip': '',
+		'name' : "Himanshu Hitesh Das",
+		'hall' : "AZ",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "Awareness drive pertaining to Tech GC events",
+		'proposal_descrip': '',
+		'name' : "Ramendra Prasad",
+		'hall' : "RK",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-3",
+	},
+	{
+		'proposal_title': "Assign PG mentors to students to increase Tech GC participation",
+		'proposal_descrip': '',
+		'name' : "Ramendra Prasad",
+		'hall' : "RK",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-3",
+	},
+	{
+		'proposal_title': "Establish Coders' club and Hack Night",
+		'proposal_descrip': '',
+		'name' : "Ramendra Prasad",
+		'hall' : "RK",
+		'category' : 1,
+		'status' : 1,
+		'candidate_status' : 1,
+		'candidateID' : "2013-3",
+	},
+	{
+		'proposal_title': "Getting KTJ affiliated to USA Science and Engineering Festival",
+		'proposal_descrip': "",
+		'name' : "Harsh Bajaj",
+		'hall' : "RP",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-4",
+	},
+	{
+		'proposal_title': "New Tech GC event based on social campaigns of corporations",
+		'proposal_descrip': "",
+		'name' : "Harsh Bajaj",
+		'hall' : "RP",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-4",
+	},
+	{
+		'proposal_title': "Series of events for freshers in Tech GC",
+		'proposal_descrip': "",
+		'name' : "Harsh Bajaj",
+		'hall' : "RP",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-4",
+	},
+	{
+		'proposal_title': "Online portal to display research work by students",
+		'proposal_descrip': "",
+		'name' : "Harsh Bajaj",
+		'hall' : "RP",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-4",
+	},
+	],
+	'2014' : [
+		{
+		'proposal_title': "Establishment of a Puzzle Club",
+		'proposal_descrip': "",
+		'name' : "Abhay Srivastava",
+		'hall' : "Nehru",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "Seed funding for winners of Product Design and Hardware Modelling",
+		'proposal_descrip': "",
+		'name' : "Abhay Srivastava",
+		'hall' : "Nehru",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "Biannual Tech Magazine",
+		'proposal_descrip': "",
+		'name' : "Abhay Srivastava",
+		'hall' : "Nehru",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-1",
+	},
+	{
+		'proposal_title': "To introduce ‘Student Competitions Club’ under the Gymkhana",
+		'proposal_descrip': '',
+		'name' : "Anupam Pedarla",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2014-2",
+	},
+	{
+		'proposal_title': "To introduce ‘Finance Club’ under the Gymkhana",
+		'proposal_descrip': '',
+		'name' : "Anupam Pedarla",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 1,
+		'candidate_status' : 1,
+		'candidateID' : "2014-2",
+	},
+	{
+		'proposal_title': "Awareness sessions in halls with low participation for Tech GC",
+		'proposal_descrip': '',
+		'name' : "Anupam Pedarla",
+		'hall' : "LBS",
+		'category' : 2,
+		'status' : 1,
+		'candidate_status' : 1,
+		'candidateID' : "2014-2",
+	},
+	{
+		'proposal_title': "Ebrochure for increasing awareness about tech GC",
+		'proposal_descrip': "",
+		'name' : "Raja Ambrish",
+		'hall' : "LLR",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-3",
+	},
+	{
+		'proposal_title': "Introduce Data Analytics event in Tech GC",
+		'proposal_descrip': "",
+		'name' : "Raja Ambrish",
+		'hall' : "LLR",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-3",
+	},
+	{
+		'proposal_title': "Conduct workshop on Data Analytics and Case Study",
+		'proposal_descrip': "",
+		'name' : "Raja Ambrish",
+		'hall' : "LLR",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-3",
+	},
+	{
+		'proposal_title': "Winter orientation cum training camp (OCTC)for participants of InterIIT TechMeet",
+		'proposal_descrip': "",
+		'name' : "Shobhit Goel",
+		'hall' : "LBS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Initiate Open IIT Tech events",
+		'proposal_descrip': "",
+		'name' : "Shobhit Goel",
+		'hall' : "LBS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Establish a Data Analytics society under Gymkhana",
+		'proposal_descrip': "",
+		'name' : "Shobhit Goel",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Establish a Data Analytics society under Gymkhana and introduce Data Analytics as a Tech GC event",
+		'proposal_descrip': "",
+		'name' : "M.Siddharth",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Archiving submissions of Tech GC events",
+		'proposal_descrip': "",
+		'name' : "M.Siddharth",
+		'hall' : "LBS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+	{
+		'proposal_title': "Open House exhibition to display current running projects of students/faculty",
+		'proposal_descrip': "",
+		'name' : "M.Siddharth",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2014-4",
+	},
+
+
+		],
+	'2015' : [
+		{
+		'proposal_title': "Establish Technology Programming Society",
+		'proposal_descrip': "",
+		'name' : "Kartikeya Fatwani",
+		'hall' : "MS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-1",
+	},
+	{
+		'proposal_title': "Online portal for information dissemination during Tech GC",
+		'proposal_descrip': "",
+		'name' : "Kartikeya Fatwani",
+		'hall' : "MS",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-1",
+	},
+	{
+		'proposal_title': "Webinar Series during KTJ",
+		'proposal_descrip': "",
+		'name' : "Kartikeya Fatwani",
+		'hall' : "MS",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-1",
+	},
+	{
+		'proposal_title': "International recognition for KTJ",
+		'proposal_descrip': "ISO certification and HPAIR association",
+		'name' : "Palak Goyal",
+		'hall' : "SN/IG",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-2",
+	},
+	{
+		'proposal_title': "IIT KGP account on elearnmarkets.com",
+		'proposal_descrip': "",
+		'name' : "Palak Goyal",
+		'hall' : "SN/IG",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-2",
+	},
+	{
+		'proposal_title': "Web portal for Tech GC",
+		'proposal_descrip': "",
+		'name' : "Palak Goyal",
+		'hall' : "SN/IG",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-2",
+	},
+	{
+		'proposal_title': "Competitions felicitation page on gymkhana website",
+		'proposal_descrip': "",
+		'name' : "Bibhu agarwal",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Overnight case study and data analytics competition",
+		'proposal_descrip': "",
+		'name' : "Bibhu agarwal",
+		'hall' : "LBS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Web portal for Tech GC",
+		'proposal_descrip': "",
+		'name' : "Bibhu Agarwal",
+		'hall' : "SN/IG",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Competitions felicitation page on gymkhana website",
+		'proposal_descrip': "",
+		'name' : "Bibhu agarwal",
+		'hall' : "LBS",
+		'category' : 4,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "Overnight case study and data analytics competition",
+		'proposal_descrip': "",
+		'name' : "Bibhu agarwal",
+		'hall' : "LBS",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2015-3",
+	},
+	{
+		'proposal_title': "International association for Tech GC",
+		'proposal_descrip': "",
+		'name' : "Tanveer Shaikh",
+		'hall' : "Patel",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-4",
+	},
+	{
+		'proposal_title': "Kshitij Live Streaming",
+		'proposal_descrip': "",
+		'name' : "Tanveer Shaikh",
+		'hall' : "Patel",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-4",
+	},
+	{
+		'proposal_title': "Seminar for PG students and RS",
+		'proposal_descrip': "",
+		'name' : "Tanveer Shaikh",
+		'hall' : "Patel",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2015-4",
+	},
+	
+	]
+}
+
 var soccult_categories=["Spring Fest", "GCs / Competitions", "Soc-Cult Culture on Campus", "Miscellaneous"];
+var sports_categories=["Inter IIT", "GCs / Competitions", "Sporting Culture on Campus", "Miscellaneous"];
+var tech_categories=["Kshitij", "GCs / Competitions", "Tech Culture on Campus", "Miscellaneous"];
+
 window.onload= function(){
 	for(var i=0; i<6;i++){
 		var year=2010+i;
@@ -721,37 +1934,130 @@ window.onload= function(){
 		}
 		for(var j=0; j<proposals.length;j++){
 			console.log(j);
-			row = $('tbody').find('tr')[2015-year];
+			row = $($('tbody')[0]).find('tr')[2015-year];
 			var category = proposals[j]['category'];
 			var candidateID = proposals[j]['candidateID'];
-			$($(row).find('td')[category]).append($('<div class="col-md-3 faces"><img src="candis/soc-cult/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
+			$($(row).find('td')[category]).append($('<div class="col-md-3 faces-1"><img src="candis/soc-cult/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
 		}
 	}
-	$(".faces").click(function(){
+	$(".faces-1").click(function(){
 		console.log($(this).val());
 		var val = $(this).val();
 		var propID = val.split(":")[0];
 		var year = val.split(":")[1];
 		var proposal = soccult_proposals[year][propID];
-		$('.prop').html('<i class="fa fa-paint-brush"></i> Proposal')
-		$('.proposal_title').html(proposal['proposal_title']);
-		$('.proposal_descrip').html(proposal['proposal_descrip']);
-		$('.name').html("<img src='candis/soc-cult/"+proposal['candidateID']+".jpg' class='img-responsive img-circle col-md-4'>" + proposal['name']);
-		$('.hall').html("<i class='fa fa-building'></i>"+ " : " + proposal['hall']);
-		$('.category').html("<i class='fa fa-thumb-tack'></i>"+ " : " + soccult_categories[proposal['category']-1]);
-		$('.year').html("<i class='fa fa-calendar'></i>"+ " : " + year);
+		$('.prop-1').html('<i class="fa fa-paint-brush"></i> Proposal')
+		$('.proposal_title-1').html(proposal['proposal_title']);
+		$('.proposal_descrip-1').html(proposal['proposal_descrip']);
+		$('.name-1').html("<img src='candis/soc-cult/"+proposal['candidateID']+".jpg' class='img-responsive img-circle col-md-4'>" + proposal['name']);
+		$('.hall-1').html("<i class='fa fa-building'></i>"+ " : " + proposal['hall']);
+		$('.category-1').html("<i class='fa fa-thumb-tack'></i>"+ " : " + soccult_categories[proposal['category']-1]);
+		$('.year-1').html("<i class='fa fa-calendar'></i>"+ " : " + year);
 
 		if (proposal['candidate_status']===1){
-			$('.candidate_status').html("Candidate status : <span class='won'> Won </span> <i class='fa fa-check' style='color: #2ecc71'></i>");
+			$('.candidate_status-1').html("Candidate status : <span class='won'> Won </span> <i class='fa fa-check' style='color: #2ecc71'></i>");
 		}
-		else $('.candidate_status').html("Candidate status : <span class='lost'> Lost </span> <i class='fa fa-times' style='color: #e74c3c'></i>");
+		else $('.candidate_status-1').html("Candidate status : <span class='lost'> Lost </span> <i class='fa fa-times' style='color: #e74c3c'></i>");
 
 		if (proposal['status']===1){
-			$('.status').html("Proposal status : <span class='won'> Implemented Sucessfully </span> <i class='fa fa-thumbs-up' style='color: #2ecc71'></i>");
+			$('.status-1').html("Proposal status : <span class='won'> Implemented Sucessfully </span> <i class='fa fa-thumbs-up' style='color: #2ecc71'></i>");
 		}
-		else $('.status').html("Proposal status : <span class='lost'> Not implemented </span> <i class='fa fa-thumbs-down' style='color: #e74c3c'></i>");
+		else $('.status-1').html("Proposal status : <span class='lost'> Not implemented </span> <i class='fa fa-thumbs-down' style='color: #e74c3c'></i>");
 
 
 	})
 
+		for(var i=0; i<6;i++){
+		var year=2010+i;
+		var proposals = tech_proposals[String(year)]; 
+		console.log(proposals);
+		if (proposals===''){
+			continue;
+		}
+		for(var j=0; j<proposals.length;j++){
+			console.log(j);
+			row = $($('tbody')[1]).find('tr')[2015-year];
+			var category = proposals[j]['category'];
+			var candidateID = proposals[j]['candidateID'];
+			$($(row).find('td')[category]).append($('<div class="col-md-3 faces-2"><img src="candis/tech/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
+		}
+	}
+	$(".faces-2").click(function(){
+		console.log($(this).val());
+		var val = $(this).val();
+		var propID = val.split(":")[0];
+		var year = val.split(":")[1];
+		var proposal = tech_proposals[year][propID];
+		$('.prop-2').html('<i class="fa fa-paint-brush"></i> Proposal')
+		$('.proposal_title-2').html(proposal['proposal_title']);
+		$('.proposal_descrip-2').html(proposal['proposal_descrip']);
+		$('.name-2').html("<img src='candis/tech/"+proposal['candidateID']+".jpg' class='img-responsive img-circle col-md-4'>" + proposal['name']);
+		$('.hall-2').html("<i class='fa fa-building'></i>"+ " : " + proposal['hall']);
+		$('.category-2').html("<i class='fa fa-thumb-tack'></i>"+ " : " + soccult_categories[proposal['category']-1]);
+		$('.year-2').html("<i class='fa fa-calendar'></i>"+ " : " + year);
+
+		if (proposal['candidate_status']===1){
+			$('.candidate_status-2').html("Candidate status : <span class='won'> Won </span> <i class='fa fa-check' style='color: #2ecc71'></i>");
+		}
+		else $('.candidate_status-2').html("Candidate status : <span class='lost'> Lost </span> <i class='fa fa-times' style='color: #e74c3c'></i>");
+
+		if (proposal['status']===1){
+			$('.status-2').html("Proposal status : <span class='won'> Implemented Sucessfully </span> <i class='fa fa-thumbs-up' style='color: #2ecc71'></i>");
+		}
+		else $('.status-2').html("Proposal status : <span class='lost'> Not implemented </span> <i class='fa fa-thumbs-down' style='color: #e74c3c'></i>");
+
+
+	})
+
+		for(var i=0; i<6;i++){
+		var year=2010+i;
+		var proposals = sports_proposals[String(year)]; 
+		console.log(proposals);
+		if (proposals===''){
+			continue;
+		}
+		for(var j=0; j<proposals.length;j++){
+			console.log(j);
+			row = $($('tbody')[2]).find('tr')[2015-year];
+			var category = proposals[j]['category'];
+			var candidateID = proposals[j]['candidateID'];
+			$($(row).find('td')[category]).append($('<div class="col-md-3 faces-3"><img src="candis/sports/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
+		}
+	}
+	$(".faces-3").click(function(){
+		console.log($(this).val());
+		var val = $(this).val();
+		var propID = val.split(":")[0];
+		var year = val.split(":")[1];
+		var proposal = sports_proposals[year][propID];
+		$('.prop-3').html('<i class="fa fa-paint-brush"></i> Proposal')
+		$('.proposal_title-3').html(proposal['proposal_title']);
+		$('.proposal_descrip-3').html(proposal['proposal_descrip']);
+		$('.name-3').html("<img src='candis/sports/"+proposal['candidateID']+".jpg' class='img-responsive img-circle col-md-4'>" + proposal['name']);
+		$('.hall-3').html("<i class='fa fa-building'></i>"+ " : " + proposal['hall']);
+		$('.category-3').html("<i class='fa fa-thumb-tack'></i>"+ " : " + soccult_categories[proposal['category']-1]);
+		$('.year-3').html("<i class='fa fa-calendar'></i>"+ " : " + year);
+
+		if (proposal['candidate_status']===1){
+			$('.candidate_status-3').html("Candidate status : <span class='won'> Won </span> <i class='fa fa-check' style='color: #2ecc71'></i>");
+		}
+		else $('.candidate_status-3').html("Candidate status : <span class='lost'> Lost </span> <i class='fa fa-times' style='color: #e74c3c'></i>");
+
+		if (proposal['status']===1){
+			$('.status-3').html("Proposal status : <span class='won'> Implemented Sucessfully </span> <i class='fa fa-thumbs-up' style='color: #2ecc71'></i>");
+		}
+		else $('.status-3').html("Proposal status : <span class='lost'> Not implemented </span> <i class='fa fa-thumbs-down' style='color: #e74c3c'></i>");
+
+
+	})
+
+	$(".soc-but").click(function(){
+		window.location="#soc-cult";
+	});
+	$(".tech-but").click(function(){
+		window.location="#tech";
+	});
+	$(".sports-but").click(function(){
+		window.location="#sports-games";
+	});
 }
