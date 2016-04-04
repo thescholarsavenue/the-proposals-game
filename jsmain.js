@@ -1918,8 +1918,8 @@ tech_proposals={
 		'candidateID' : "2015-1",
 	},
 	{
-		'proposal_title': "International recognition for KTJ",
-		'proposal_descrip': "ISO certification and HPAIR association",
+		'proposal_title': "International recognition for KTJ(ISO certification and HPAIR association)",
+		'proposal_descrip': "Update: HPAIR associated has been attained, ISO certification pending",
 		'name' : "Palak Goyal",
 		'hall' : "SN/IG",
 		'category' : 1,
