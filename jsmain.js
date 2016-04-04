@@ -956,7 +956,118 @@ sports_proposals={
 		'candidateID' : "2014-5",
 	}
 	],
-	'2013' : '',
+	'2013' : [
+	{
+		'proposal_title': "Colllaborating with different sports federations to send coaches, send players to national level competitions, technical help(judges,  referee) during shaurya and InterHalls",
+		'proposal_descrip': "",
+		'name' : "Shrrinesh Balasubramanian",
+		'hall' : "HJB",
+		'category' : 1,
+		'status' : 1,
+		'candidate_status' : 1,
+		'candidateID' : "2013-1",
+	},
+	{
+		'proposal_title': "Setting up a transparent and efficient system of inter IIT team selection and inter IIT preparation inparticular reference to racquet sports using a combination of existing competitions and new inclusions",
+		'proposal_descrip': "",
+		'name' : "Shrrinesh Balasubramanian",
+		'hall' : "HJB",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-1",
+	},
+	{
+		'proposal_title': "Introducing 'Sports Week' to increase the general enthusiasm among student community for sports and provide a platform for everyone to learn sports from experienced coaches",
+		'proposal_descrip': "",
+		'name' : "Shrrinesh Balasubramanian",
+		'hall' : "HJB",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-1",
+	},
+	{
+		'proposal_title': "A Go-For-Gold Quest for Inter-IIT 2013 focused on making radical changes in Fitness levels and Technique by the Extended AAPHER FITNESS TEST and Video Analysis ",
+		'proposal_descrip': "",
+		'name' : "Abhishek Malhotra",
+		'hall' : "RP",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "To introduce Eklavya- a sports mentorship program, where student mentors will hold regular teaching sessions for various sports",
+		'proposal_descrip': "",
+		'name' : "Abhishek Malhotra",
+		'hall' : "RP",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "To organize the Shaurya Aquatics Meet before the Inter-IIT Aquatics Meet",
+		'proposal_descrip': "",
+		'name' : "Abhishek Malhotra",
+		'hall' : "RP",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "A seminar for each sport at the beginning of the academic session by Physical Training Instructors for sports specific information dissemination",
+		'proposal_descrip': "",
+		'name' : "Abhishek Malhotra",
+		'hall' : "RP",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-2",
+	},
+	{
+		'proposal_title': "Additional fund sourcing for the Inter-IIT contingent- caution money of graduated players and funds from alumni",
+		'proposal_descrip': "",
+		'name' : "Vaibhav Goyal",
+		'hall' : "LLR",
+		'category' : 1,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-3",
+	},
+	{
+		'proposal_title': "Restructuring of Shaurya-participation of clubs and associations, three new events(Water Polo, Squash and Weightlifting)",
+		'proposal_descrip': "",
+		'name' : "Vaibhav Goyal",
+		'hall' : "LLR",
+		'category' : 2,
+		'status' : 0,
+		'candidate_status' : 0,
+		'candidateID' : "2013-3",
+	},
+	{
+		'proposal_title': " Introduction of NSO for Squash and Weightlifting",
+		'proposal_descrip': "",
+		'name' : "Vaibhav Goyal",
+		'hall' : "LLR",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-3",
+	},
+	{
+		'proposal_title': "Free Gym training sessions for Inter IIT players",
+		'proposal_descrip': "",
+		'name' : "Dinesh Jangid",
+		'hall' : "RK",
+		'category' : 3,
+		'status' : 0,
+		'candidate_status' : 1,
+		'candidateID' : "2013-4",
+	},
+	],
 	'2012' : [{
 		'proposal_title': "Improve the performance of the teams at the Inter IIT Sports Meet",
 		'proposal_descrip': "This will include building a new section within the existing Gymkhana website, showcasing the profiles of all the Inter IIT players along with their achievements",
@@ -1867,16 +1978,6 @@ tech_proposals={
 		'candidateID' : "2015-3",
 	},
 	{
-		'proposal_title': "Competitions felicitation page on gymkhana website",
-		'proposal_descrip': "",
-		'name' : "Bibhu agarwal",
-		'hall' : "LBS",
-		'category' : 2,
-		'status' : 0,
-		'candidate_status' : 0,
-		'candidateID' : "2015-3",
-	},
-	{
 		'proposal_title': "Overnight case study and data analytics competition",
 		'proposal_descrip': "",
 		'name' : "Bibhu agarwal",
@@ -1993,7 +2094,7 @@ window.onload= function(){
 		$('.proposal_descrip-2').html(proposal['proposal_descrip']);
 		$('.name-2').html("<img src='candis/tech/"+proposal['candidateID']+".jpg' class='img-responsive img-circle col-md-4'>" + proposal['name']);
 		$('.hall-2').html("<i class='fa fa-building'></i>"+ " : " + proposal['hall']);
-		$('.category-2').html("<i class='fa fa-thumb-tack'></i>"+ " : " + soccult_categories[proposal['category']-1]);
+		$('.category-2').html("<i class='fa fa-thumb-tack'></i>"+ " : " + tech_categories[proposal['category']-1]);
 		$('.year-2').html("<i class='fa fa-calendar'></i>"+ " : " + year);
 
 		if (proposal['candidate_status']===1){
@@ -2035,7 +2136,7 @@ window.onload= function(){
 		$('.proposal_descrip-3').html(proposal['proposal_descrip']);
 		$('.name-3').html("<img src='candis/sports/"+proposal['candidateID']+".jpg' class='img-responsive img-circle col-md-4'>" + proposal['name']);
 		$('.hall-3').html("<i class='fa fa-building'></i>"+ " : " + proposal['hall']);
-		$('.category-3').html("<i class='fa fa-thumb-tack'></i>"+ " : " + soccult_categories[proposal['category']-1]);
+		$('.category-3').html("<i class='fa fa-thumb-tack'></i>"+ " : " + sports_categories[proposal['category']-1]);
 		$('.year-3').html("<i class='fa fa-calendar'></i>"+ " : " + year);
 
 		if (proposal['candidate_status']===1){
