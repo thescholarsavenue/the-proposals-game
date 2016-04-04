@@ -40,7 +40,15 @@ body{
 	text-align: left;
 }
 
-.proposal_title{
+.proposal_title-1{
+	font-size: 25px;
+	font-weight: 700;
+}
+.proposal_title-2{
+	font-size: 25px;
+	font-weight: 700;
+}
+.proposal_title-3{
 	font-size: 25px;
 	font-weight: 700;
 }
@@ -61,7 +69,15 @@ body{
 	margin-left: 5px;
 }
 
-.name{
+.name-1{
+	font-size : 25px;
+	font-weight: 600;
+}
+.name-2{
+	font-size : 25px;
+	font-weight: 600;
+}
+.name-3{
 	font-size : 25px;
 	font-weight: 600;
 }
