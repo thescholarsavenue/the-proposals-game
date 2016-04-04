@@ -1054,7 +1054,7 @@ sports_proposals={
 		'hall' : "LLR",
 		'category' : 3,
 		'status' : 0,
-		'candidate_status' : 1,
+		'candidate_status' : 0,
 		'candidateID' : "2013-3",
 	},
 	{
@@ -1064,7 +1064,7 @@ sports_proposals={
 		'hall' : "RK",
 		'category' : 3,
 		'status' : 0,
-		'candidate_status' : 1,
+		'candidate_status' : 0,
 		'candidateID' : "2013-4",
 	},
 	],
