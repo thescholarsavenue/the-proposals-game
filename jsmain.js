@@ -1805,11 +1805,11 @@ tech_proposals={
 	},
 	{
 		'proposal_title': "Introduce Data Analytics event in Tech GC",
-		'proposal_descrip': "",
+		'proposal_descrip': "Proposal Update : This event was added to the Tech GC by the candidates who won.",
 		'name' : "Raja Ambrish",
 		'hall' : "LLR",
 		'category' : 2,
-		'status' : 0,
+		'status' : 1,
 		'candidate_status' : 0,
 		'candidateID' : "2014-3",
 	},
