@@ -1414,7 +1414,8 @@ sports_proposals={
 		'candidateID' : "2010-2",
 	},
 	],
-	'2016': [{
+	'2016': [
+	{
 		'proposal_title': "Sports Mentorship Programme",
 		'proposal_descrip':"The best athletes of a sport in the institute will mentor assigned mentees who can register for free",
 		'name' : "Ajeet Singh",
@@ -1424,7 +1425,7 @@ sports_proposals={
 		'candidate_status' : 0,
 		'candidateID' : "2016-1",
 	},
-{
+	{
 		'proposal_title': "Martial Arts Training (Emphasising Women’s Self Defense",
 		'proposal_descrip':"Martial arts will be taught to all interested students to help develop activity and character",
 		'name' : "Ajeet Singh",
@@ -1434,7 +1435,7 @@ sports_proposals={
 		'candidate_status' : 0,
 		'candidateID' : "2016-1",
 	},
-{
+	{
 		'proposal_title': "Live Streaming of Matches",
 		'proposal_descrip':"Cricket and Football matches will be livestreamed at Netaji Auditorium so IIT Kgp can experience the competitive spirit firsthand",
 		'name' : "Ajeet Singh",
