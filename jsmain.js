@@ -718,7 +718,7 @@ soccult_proposals={
 		'candidate_status' : 0,
 		'candidateID' : "2015-3",
 	},
-	]
+	],
 	'2016': [{
 		'proposal_title': "Humor Club",
 		'proposal_descrip': "Establish a humor club under gymkhana with regular workshops and open mic sessions ",
