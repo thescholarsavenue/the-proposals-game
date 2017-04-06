@@ -1414,7 +1414,8 @@ sports_proposals={
 		'candidateID' : "2010-2",
 	},
 	],
-	'2016': [{
+	'2016': [
+	{
 		'proposal_title': "Sports Mentorship Programme",
 		'proposal_descrip':"The best athletes of a sport in the institute will mentor assigned mentees who can register for free",
 		'name' : "Ajeet Singh",
@@ -1424,7 +1425,7 @@ sports_proposals={
 		'candidate_status' : 0,
 		'candidateID' : "2016-1",
 	},
-{
+	{
 		'proposal_title': "Martial Arts Training (Emphasising Women’s Self Defense",
 		'proposal_descrip':"Martial arts will be taught to all interested students to help develop activity and character",
 		'name' : "Ajeet Singh",
@@ -1434,7 +1435,7 @@ sports_proposals={
 		'candidate_status' : 0,
 		'candidateID' : "2016-1",
 	},
-{
+	{
 		'proposal_title': "Live Streaming of Matches",
 		'proposal_descrip':"Cricket and Football matches will be livestreamed at Netaji Auditorium so IIT Kgp can experience the competitive spirit firsthand",
 		'name' : "Ajeet Singh",
@@ -2394,7 +2395,7 @@ var sports_categories=["Inter IIT", "GCs / Competitions", "Sporting Culture on C
 var tech_categories=["Kshitij", "GCs / Competitions", "Tech Culture on Campus", "Miscellaneous"];
 
 window.onload= function(){
-	for(var i=0; i<6;i++){
+	for(var i=0; i<7;i++){
 		var year=2010+i;
 		var proposals = soccult_proposals[String(year)]; 
 		console.log(proposals);
@@ -2403,7 +2404,7 @@ window.onload= function(){
 		}
 		for(var j=0; j<proposals.length;j++){
 			console.log(j);
-			row = $($('tbody')[0]).find('tr')[2015-year];
+			row = $($('tbody')[0]).find('tr')[2016-year];
 			var category = proposals[j]['category'];
 			var candidateID = proposals[j]['candidateID'];
 			$($(row).find('td')[category]).append($('<div class="col-md-3 faces-1"><img src="candis/soc-cult/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
@@ -2436,7 +2437,7 @@ window.onload= function(){
 
 	})
 
-		for(var i=0; i<6;i++){
+		for(var i=0; i<7;i++){
 		var year=2010+i;
 		var proposals = tech_proposals[String(year)]; 
 		console.log(proposals);
@@ -2445,7 +2446,7 @@ window.onload= function(){
 		}
 		for(var j=0; j<proposals.length;j++){
 			console.log(j);
-			row = $($('tbody')[1]).find('tr')[2015-year];
+			row = $($('tbody')[1]).find('tr')[2016-year];
 			var category = proposals[j]['category'];
 			var candidateID = proposals[j]['candidateID'];
 			$($(row).find('td')[category]).append($('<div class="col-md-3 faces-2"><img src="candis/tech/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
@@ -2478,7 +2479,7 @@ window.onload= function(){
 
 	})
 
-		for(var i=0; i<6;i++){
+		for(var i=0; i<7;i++){
 		var year=2010+i;
 		var proposals = sports_proposals[String(year)]; 
 		console.log(proposals);
@@ -2487,7 +2488,7 @@ window.onload= function(){
 		}
 		for(var j=0; j<proposals.length;j++){
 			console.log(j);
-			row = $($('tbody')[2]).find('tr')[2015-year];
+			row = $($('tbody')[2]).find('tr')[2016-year];
 			var category = proposals[j]['category'];
 			var candidateID = proposals[j]['candidateID'];
 			$($(row).find('td')[category]).append($('<div class="col-md-3 faces-3"><img src="candis/sports/'+candidateID+'.jpg" class="img-responsive img-circle"></div>').val(j+':'+year));
