@@ -718,7 +718,7 @@ soccult_proposals={
 		'candidate_status' : 0,
 		'candidateID' : "2015-3",
 	},
-	]
+	],
 	'2016': [{
 		'proposal_title': "Humor Club",
 		'proposal_descrip': "Establish a humor club under gymkhana with regular workshops and open mic sessions ",
@@ -1413,9 +1413,8 @@ sports_proposals={
 		'candidate_status' : 1,
 		'candidateID' : "2010-2",
 	},
-
 	],
-	‘2016’: [{
+	'2016': [{
 		'proposal_title': "Sports Mentorship Programme",
 		'proposal_descrip':"The best athletes of a sport in the institute will mentor assigned mentees who can register for free",
 		'name' : "Ajeet Singh",
